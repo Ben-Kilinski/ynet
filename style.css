@@ -23,3 +23,22 @@ img {
     padding-left: 13vw;
     padding-right: 15vw;
 }
+
+
+#barra {
+    height: 5vh;
+    width: 80vw;
+    background-color: red;
+    color: white;
+
+}
+#barra ul{
+
+}
+#barra ul li{
+    display: inline-block;
+    padding: 1vw;
+    margin-bottom: auto;
+    margin-top: -1.0vh;
+
+}
