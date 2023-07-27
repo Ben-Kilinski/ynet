@@ -1,0 +1,25 @@
+#ynet {
+    height: 20vh;
+    width: 100vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    font-size: 110%;
+
+}
+
+#ynet ul {
+    
+}
+
+#ynet ul li {
+    display: inline;
+    padding: 0.5vw;
+}
+
+img {
+    height: 130px;
+    width: auto;
+    margin-bottom:-3%;
+    padding-left: 13vw;
+    padding-right: 15vw;
+}
